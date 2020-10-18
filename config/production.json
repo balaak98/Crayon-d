@@ -1,4 +1,4 @@
 {
-    "mongoURI":"mongodb+srv://Bala123:bala123@crayonconnector.10l4b.mongodb.net/<dbname>?retryWrites=true&w=majority",
+    "mongoURI":"mongodb+srv://<mongoId>:<password>@crayonconnector.10l4b.mongodb.net/<dbname>?retryWrites=true&w=majority",
     "jwtSecretKey":"secretKey"
 }
